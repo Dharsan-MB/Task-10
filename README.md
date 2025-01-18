@@ -3,6 +3,26 @@
 ## Overview
 The **Recipes App** is a CRUD application designed to manage recipes. It is built using Node.js, Express.js, and Mongoose, following the MVC (Model-View-Controller) architectural pattern. The app includes comprehensive API documentation created with Postman, enabling developers to easily understand and test the application endpoints.
 
+##
+GET METHOD
+![GET method](https://github.com/user-attachments/assets/ccda1563-586d-4fbc-92e1-fba874018cd5)
+![GET method mdb](https://github.com/user-attachments/assets/ac3a26d7-c64e-4488-b9c9-3464524a398a)
+
+POST METHOD
+![POST method](https://github.com/user-attachments/assets/5580e6f5-c581-44dd-8918-45bf0083617e)
+![POST method mdb](https://github.com/user-attachments/assets/de53ecc6-ae4e-4516-9e40-1e8f7e842420)
+
+PUT METHOD
+![PUT method](https://github.com/user-attachments/assets/31b4697e-70c2-4776-bade-50891065066e)
+![PUT method mdb](https://github.com/user-attachments/assets/55c06c51-efe7-4a04-952c-7d90111d30eb)
+
+DELETE METHOD
+![DELETE method](https://github.com/user-attachments/assets/df9d30d7-6af3-4352-915e-b7b748eb1ce4)
+![DELETE method mdb](https://github.com/user-attachments/assets/0ad5e05f-a02c-4229-a98c-e39916b05e11)
+
+GET BY ID METHOD
+![GET by id](https://github.com/user-attachments/assets/273b332c-72a3-42f9-bcf9-95cb3696be4c)
+
 ## Features
 The application provides the following functionalities:
 
